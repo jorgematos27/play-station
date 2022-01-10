@@ -110,7 +110,7 @@ width: 380px;
     margin-bottom: 100px;
 }
 .bg-blued{
-    background-color: #0072ce
+    background-color: #02008a
 }
 .bg-imb{
     background-image: url(../img/bgblue.jpeg);
@@ -143,4 +143,7 @@ width: 380px;}
     border: none;
     cursor:pointer;
     overflow: hidden;        
+}
+.textminm{
+    font-size: 14px;
 }
